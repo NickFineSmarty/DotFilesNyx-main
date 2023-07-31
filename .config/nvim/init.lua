@@ -1,0 +1,23 @@
+-- Basic
+require("base")
+require("color")
+require("maps")
+require("plugin")
+
+-- Plugins
+require("plugins.neosolarized")
+require("plugins.lualine")
+require("plugins.lsp")
+require("plugins.cmp")
+require("plugins.telescope")
+require("plugins.web-devicons")
+require("plugins.bufferline")
+require("plugins.colorizer")
+require("plugins.lspsaga")
+require("plugins.prettier")
+require("plugins.null-ls")
+require("plugins.gitsigns")
+require("plugins.mason")
+require("plugins.git")
+require("plugins.terminal")
+require("plugins.lspkind")
